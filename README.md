@@ -20,7 +20,7 @@ cargo run
 
 <!----------------------------------{ Labels }--------------------------------->
 
-[views]: https://komarev.com/ghpvc/?username=rust_server&label=view%20counter&color=red&style=flat
+[views]: https://komarev.com/ghpvc/?username=rust-server&label=view%20counter&color=red&style=flat
 [repo-size]: https://img.shields.io/github/repo-size/cybergaz/rust_server
 [issues]: https://img.shields.io/github/issues-raw/cybergaz/rust_server
 [license]: https://img.shields.io/github/license/cybergaz/rust_server
